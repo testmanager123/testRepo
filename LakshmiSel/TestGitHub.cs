@@ -11,6 +11,8 @@ namespace LakshmiSel
         static void Main(string[] args)
         {
             Console.WriteLine("this is test of github");
+            Console.WriteLine("this is testing continue of github");
+            System.Threading.Thread.Sleep(1000);
         }
     }
 }
